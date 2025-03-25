@@ -1,4 +1,4 @@
-In this project, let's fix the **Nxt Trendz Protected Route** by applying the concepts we have learned till now.
+In this project, The **Nxt Trendz Protected Route** is a shopping cart website.
 
 ### Refer to the image below:
 
@@ -39,27 +39,5 @@ Fix the given code to have the following functionality
 
 </details>
 
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- User credentials
-
-  ```text
-   username: rahul
-   password: rahul@2021
-  ```
-
-</details>
-
-> ### _Things to Keep in Mind_
+### 
 >
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
