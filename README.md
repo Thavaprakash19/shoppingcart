@@ -1,4 +1,6 @@
 In this project, The **Nxt Trendz Protected Route** is a shopping cart website.
+## 🚀 Deployed Website  
+[Click here to view the live site](https://shoppingsite233.ccbp.tech)
 
 ### Refer to the image below:
 
